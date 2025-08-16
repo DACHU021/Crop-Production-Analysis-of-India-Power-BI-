@@ -1,4 +1,4 @@
-# 🌾 Crop Production Analysis of India (Power BI)
+# 🌾 Crop Production Analysis of India (Power BI & SQL)
 
 ## 📖 Project Overview
 The **Crop Production Analysis Dashboard** provides insights into agricultural trends across India.  
